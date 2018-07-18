@@ -1,4 +1,5 @@
-//这是关于排序算法的第二次尝试。
+//这什么都不是！
+//一坨shit.
 #include <iostream>
 using namespace std;
 int 

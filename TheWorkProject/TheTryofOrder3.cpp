@@ -7,7 +7,10 @@ int main(int argc, char const *argv[])
     cin>>c;
     
     //以上这些语句等价于int a，b，c；
-    while()
+    while(c>=10){
+        cout<<
+    }
+
     if()
     return 0;
 }
